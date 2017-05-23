@@ -1,3 +1,6 @@
  'use strict'
 
- console.log("X","hallo")
+import fibonacci from './fibonacci'
+
+ console.log("X","start")
+let fibonacciArray = fibonacci(4)
